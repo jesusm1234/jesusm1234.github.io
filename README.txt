@@ -1,5 +1,5 @@
 
-Welcome to my portfolio! I am a junior full-stack software engineer with experience in building web applications and a passion for creating clean, efficient code.
+Welcome to my portfolio! I am a full-stack software engineer with experience in building web applications and a passion for creating clean, efficient code.
 
 About Me
 
